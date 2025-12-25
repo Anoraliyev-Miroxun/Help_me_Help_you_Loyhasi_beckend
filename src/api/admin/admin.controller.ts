@@ -40,7 +40,7 @@ export class AdminController {
         status: 'success',
         data: {
           id: '1',
-          username: 'jamshid',
+          username: 'Miroxun',
           phoneNumber: '+998901234567',
           role: 'ADMIN',
         },
@@ -69,7 +69,7 @@ export class AdminController {
         data: [
           {
             id: '1',
-            username: 'jamshid',
+            username: 'Miroxun',
             phoneNumber: '+998901234567',
             role: 'ADMIN',
           },
@@ -100,7 +100,7 @@ export class AdminController {
         status: 'success',
         data: {
           id: '1',
-          username: 'jamshid',
+          username: 'Miroxun',
           phoneNumber: '+998901234567',
           role: 'ADMIN',
         },
@@ -129,7 +129,7 @@ export class AdminController {
         status: 'success',
         data: {
           id: '1',
-          username: 'jamshid_updated',
+          username: 'Miroxun',
           phoneNumber: '+99816161616',
           role: 'ADMIN',
         },
